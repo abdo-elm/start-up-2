@@ -1,0 +1,29 @@
+body {
+  background-image: url(law7a.jpg);
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(255, 247, 238);
+  background-color: rgb(255, 0, 0);
+  text-align: center;
+  cursor: pointer;
+}
+
+img {
+  float: left;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
+
+p {
+  border: 5px solid beige;
+  line-height: 15px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
